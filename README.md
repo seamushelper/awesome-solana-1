@@ -113,6 +113,7 @@ Defi Protocols:
 - [Jet Protocol V2](https://github.com/jet-lab/jet-v2) ![](https://img.shields.io/github/stars/jet-lab/jet-v2.svg?style=social) Implementation of the Jet Protocol V2 programs for Solana
 - [Marinade Finance Liquid Staking Program](https://github.com/marinade-finance/liquid-staking-program) ![](https://img.shields.io/github/stars/marinade-finance/liquid-staking-program.svg?style=social)
 - [Jupiter Aggregator API Rust Bindings](https://github.com/mvines/rust-jup-ag) [](https://img.shields.io/github/stars/mvines/rust-jup-ag.svg?style=social)
+- [Defined](https://defined.fi/) - Real-time DEX trading terminal with charts, token explorer, and wallet tracking for Solana DEX pairs
 
 Canonical open source examples:
 - [SPL Token Lending](https://github.com/solana-labs/solana-program-library/tree/master/token-lending) ![](https://img.shields.io/github/stars/solana-labs/solana-program-library.svg?style=social) A lending protocol for the Token program on the Solana blockchain inspired by Aave and Compound
@@ -159,6 +160,7 @@ Canonical open source examples:
 
 - [Holaplex's NFT Indexer](https://github.com/holaplex/indexer) ![](https://img.shields.io/github/stars/holaplex/indexer.svg?style=social)
 - [Metaplex's NFT Indexer](https://github.com/metaplex-foundation/digital-asset-validator-plugin) ![](https://img.shields.io/github/stars/metaplex-foundation/digital-asset-validator-plugin.svg?style=social)
+- [Codex](https://codex.io/) - Blockchain data API providing real-time and historical token data across 70+ networks including Solana via GraphQL. [Docs](https://docs.codex.io/)
 
 ## SDKs
 
